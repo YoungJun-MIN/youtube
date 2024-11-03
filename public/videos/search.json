@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "A9E6Vq2Z2Y128jw41qnkRNcj6tI",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 30151,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2YeGrN1bZUmwjSWx8MhNFC_1YDg",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA"
+      },
+      "snippet": {
+        "publishedAt": "2006-09-19T01:34:43Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars",
+        "description": "An Evening With Silk Sonic: https://SilkSonic.lnk.to/AEWSSID The official YouTube channel of Bruno Mars. Subscribe for the latest ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/aqNdAvqqq69k4af_gfPdyw-UrP-K0sgXYpLPxpSLRA42bopt0iwUcMfdzYrsbaHZxWF5ld9cjA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/aqNdAvqqq69k4af_gfPdyw-UrP-K0sgXYpLPxpSLRA42bopt0iwUcMfdzYrsbaHZxWF5ld9cjA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/aqNdAvqqq69k4af_gfPdyw-UrP-K0sgXYpLPxpSLRA42bopt0iwUcMfdzYrsbaHZxWF5ld9cjA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2006-09-19T01:34:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4KRhxJSIQd6_dktc7qoTxW0H4po",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kPa7bsKwL-c"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-16T04:00:36Z",
+        "channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+        "title": "Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video)",
+        "description": "Listen to “Die With A Smile”, song and video out now: http://GagaMars.lnk.to/DieWithASmile Directed by Daniel Ramos & Bruno ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kPa7bsKwL-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kPa7bsKwL-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kPa7bsKwL-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LadyGagaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-16T04:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w_ESOufPa-Pxj0si_pvVLSlG3Ac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ekr2nIex040"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-18T04:00:07Z",
+        "channelId": "UCBo1hnzxV9rz3WVsv__Rn1g",
+        "title": "ROSÉ &amp; Bruno Mars - APT. (Official Music Video)",
+        "description": "ROSÉ & Bruno Mars - APT. Download/stream: https://rosesarerosie.lnk.to/APTID Order APT. single CD: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ekr2nIex040/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ekr2nIex040/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ekr2nIex040/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ROSÉ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-18T04:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "csHMR82Kl0aWmAI90HksL32X0t0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fwg7FrPNmNA"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-02T00:00:18Z",
+        "channelId": "UCTxVREjbuIN-c9ygXSXyThQ",
+        "title": "Bruno Mars Playlist 2024 - Best Songs Collection Full Album - The Best Of Bruno Mars - Greatest Hits",
+        "description": "Bruno Mars Playlist 2024 - Best Songs Collection Full Album - The Best Of Bruno Mars - Greatest Hits Bruno Mars Playlist 2024 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fwg7FrPNmNA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fwg7FrPNmNA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fwg7FrPNmNA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Good Energy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-02T00:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PtbIr5-WnboOWxR9wZ2R0qgwsZs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AdBzzpq3xV4"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-26T07:38:57Z",
+        "channelId": "UC-AlofdKECUdhXrbJQZ6iEg",
+        "title": "Lady Gaga, Bruno Mars - Die With A Smile",
+        "description": "Lady Gaga, Bruno Mars - Die With A Smile » Descargar: » Apoyo Lady Gaga: @LadyGaga (Lyrics): [Intro: Lady Gaga] (Ooh, ooh) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AdBzzpq3xV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AdBzzpq3xV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AdBzzpq3xV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LatinHype",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-26T07:38:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kRQnuNDoSbPKyyWxy-XpTiSuE1c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z2ObLmHTSiI"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-22T05:43:28Z",
+        "channelId": "UCIIBxnTrmmU3EuyhOVGq2oA",
+        "title": "BrunoMars (Best Spotify Playlist 2023) Greatest Hits - Best Songs Collection Full Album",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z2ObLmHTSiI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z2ObLmHTSiI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z2ObLmHTSiI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dunnjetjett",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-22T05:43:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a2G-70thF8ijIXpJXMx3uAsboBU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6ZPzqZoRrtk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-07T23:00:04Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Unorthodox Jukebox (Full Album) [Official Audio]",
+        "description": "The official audio for Bruno Mars' second album Unorthodox Jukebox. Download/Stream: https://lnk.to/bmunorthodoxjukebox ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ZPzqZoRrtk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ZPzqZoRrtk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ZPzqZoRrtk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-07T23:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WEB7__wPHRVBoJdiWcQ5N9MW_VU",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL2gNzJCL3m_8e21QH4D-Kz5KB7iC-Dk23"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-13T12:26:24Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Official Music Videos Playlist",
+        "description": "'An Evening With Silk Sonic' out now ✨https://SilkSonic.lnk.to/AEWSSID The official music videos playlist for Bruno Mars featuring ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GG7fLOmlhYg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GG7fLOmlhYg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GG7fLOmlhYg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-13T12:26:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EjgVIsqV9pAL0Yhxo7uhuQSKXV4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AwBVx0J8HFk"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-27T13:02:40Z",
+        "channelId": "UCQs7dLrhQq5UsbLt4jo2wxQ",
+        "title": "ROSÉ &amp; Bruno Mars - APT. (Hyperpop REMIX) Lyrcis MV",
+        "description": "ROSÉ & Bruno Mars - APT. (Hyperpop REMIX) Lyrcis MV ig https://www.instagram.com/minmin_min14/ Produced by minmin Edit ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AwBVx0J8HFk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AwBVx0J8HFk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AwBVx0J8HFk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "minmin 민민",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-27T13:02:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u73rYaC8XwZGnG8UAoR0obgaq-Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PMivT7MJ41M"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-02T02:00:11Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - That’s What I Like [Official Music Video]",
+        "description": "The official music video for Bruno Mars' \"That's What I Like\" from the album '24K Magic'. Stream/Download: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PMivT7MJ41M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PMivT7MJ41M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PMivT7MJ41M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-02T02:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4cVihIZSSXwnKGLRfejcToaImdE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "adLGHcj_fmA"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-05T05:00:00Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]",
+        "description": "The official music video for Bruno Mars, Anderson .Paak, Silk Sonic's new single \"Leave the Door Open\" 'An Evening with Silk ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-05T05:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mSlQ2vSULJQtKDTr74txkqO8tqQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fLexgOxsZu0"
+      },
+      "snippet": {
+        "publishedAt": "2011-04-15T22:08:07Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - The Lazy Song (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"The Lazy Song\" from the album 'Doo-Wops and Hooligans''. Stream: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-04-15T22:08:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7QCPp132PUBPDeEW0IZfSeSINek",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OPf0YbXqDm0"
+      },
+      "snippet": {
+        "publishedAt": "2014-11-19T14:00:18Z",
+        "channelId": "UCmfFGTSsfJVu6CGvL8r75qg",
+        "title": "Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars",
+        "description": "Official Video for Uptown Funk by Mark Ronson ft. Bruno Mars Listen to Mark Ronson: https://MarkRonson.lnk.to/listenYD ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OPf0YbXqDm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OPf0YbXqDm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OPf0YbXqDm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MarkRonsonVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-11-19T14:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pGMq8GoJ5YZi5YsqpEcYM9Ut-iI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LjhCEhWiKXk"
+      },
+      "snippet": {
+        "publishedAt": "2010-09-08T21:29:01Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Just The Way You Are (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"Just The Way You Are\" from the album 'Doo-Wops & Hooligans'. Directed by Ethan Lader ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LjhCEhWiKXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LjhCEhWiKXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LjhCEhWiKXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-09-08T21:29:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JOH4LylOiQ6IJQZnGJW_ADT_8YA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kON9fn01rUQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-30T14:29:15Z",
+        "channelId": "UC-AlofdKECUdhXrbJQZ6iEg",
+        "title": "Bruno Mars - When I Was Your Man",
+        "description": "Bruno Mars - When I Was Your Man »Descargar: » Apoyo Bruno Mars: http://www.brunomars.com\u200b\u200b\u200b ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kON9fn01rUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kON9fn01rUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kON9fn01rUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LatinHype",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-30T14:29:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CxgZhIHe4Y7Ku9o__QJbJwXXWFg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UqyT8IEBkvY"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-07T03:31:50Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - 24K Magic (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"24K Magic\" from the album '24K Magic'. Subscribe for the latest official music videos, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UqyT8IEBkvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UqyT8IEBkvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UqyT8IEBkvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-07T03:31:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bw8HvTuTd4w_mJCgplqkwyZN2pc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SR6iYWJxHqs"
+      },
+      "snippet": {
+        "publishedAt": "2010-11-22T16:55:48Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Grenade (Official Music Video)",
+        "description": "The official music video for \"Grenade\" by Bruno Mars from the album 'Doo-Wops and Hooligans'. Directed by Nabil \"Today, I get to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SR6iYWJxHqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SR6iYWJxHqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SR6iYWJxHqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-11-22T16:55:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BoPOt4A9aU1nxQ6EyYuQYVT5tLY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ekzHIouo8Q4"
+      },
+      "snippet": {
+        "publishedAt": "2013-02-05T20:01:34Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - When I Was Your Man (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"When I Was Your Man\" from the album 'Unorthodox Jukebox'. Directed by Cameron ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ekzHIouo8Q4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ekzHIouo8Q4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ekzHIouo8Q4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-02-05T20:01:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PxrKiCc3RKEbsa8-Y3QyBMIiOz4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W-w3WfgpcGg"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-10T22:06:13Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - It Will Rain (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"It Will Rain\" from the 'Twilight Saga: Breaking Dawn Part 1 Original Motion Picture ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W-w3WfgpcGg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W-w3WfgpcGg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W-w3WfgpcGg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-11-10T22:06:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t7Fcs5Ro6UTonCv7HRG0wXlS-AE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K1uuK4QdvGY"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-20T13:00:19Z",
+        "channelId": "UCWHlzo1HmN2McgpEuAORDzw",
+        "title": "ROSÉ &amp; 火星人布魯諾Bruno Mars - APT. (華納官方中字版)",
+        "description": "ROSÉ & Bruno Mars 單曲《APT.》 [   數位音樂平台] https://ROSEtw.lnk.to/APT.AY 韓國女子天團BLACKPINK 成員ROSÉ，和火星 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K1uuK4QdvGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K1uuK4QdvGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K1uuK4QdvGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "華納音樂西洋日韓頻道",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-20T13:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DkDlq7RNikQsClNa3EDiF7gLdKQ",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL2gNzJCL3m_9QZh_MFe4wWtnO3tl-bgg5"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-06T11:39:49Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Best of Bruno Mars",
+        "description": "Best of Bruno Mars The official playlist for the 20 most viewed videos from the Bruno Mars Channel. Check out other Bruno Mars ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-06T11:39:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rmR39QrJ_XDQHOIWKxtKPlXnftg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8Ebqe2Dbzls"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-24T23:00:11Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "ROSÉ &amp; Bruno Mars - APT. (Official Lyric Video)",
+        "description": "The official lyric video for ROSÉ & Bruno Mars' APT. Listen to APT.: https://rosesarerosie.lnk.to/APTID Order the APT. limited CD ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Ebqe2Dbzls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Ebqe2Dbzls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Ebqe2Dbzls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-24T23:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9l-aeXMoNOSQYtVfTjQIPqWrc78",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7y2GIKweb08"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-02T06:07:10Z",
+        "channelId": "UCc1uv-TBKi8Q82q5Ly8rAEQ",
+        "title": "Bruno Mars Playlists",
+        "description": "Timestamps: [00:01 Leave The Door Open - Bruno Mars [03:56] Talking to the Moon - Bruno Mars [07:36] It Will Rain - Bruno Mars ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7y2GIKweb08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7y2GIKweb08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7y2GIKweb08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mood Pluviophile",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-02T06:07:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KSTgH3_Q7h6dPWBeWzsN0Uds9Zs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5OIzNLoGtMI"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-05T13:30:02Z",
+        "channelId": "UCSQrlwY7ZvjIz3DUNl4zozg",
+        "title": "bruno mars - it will rain (lyrics)",
+        "description": "subscribe for more sad songs https://www.youtube.com/@deepblueofficial?sub_confirmation=1 original mv ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5OIzNLoGtMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5OIzNLoGtMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5OIzNLoGtMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "deep blue sounds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-05T13:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i0pGsFUCZyU773NGNcmMYQx4UKo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-FyjEnoIgTM"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-14T01:24:48Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Versace on the Floor (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"Versace on the Floor\" from the album '24K Magic'. Subscribe for the latest official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-FyjEnoIgTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-FyjEnoIgTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-FyjEnoIgTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-14T01:24:48Z"
+      }
+    }
+  ]
+}

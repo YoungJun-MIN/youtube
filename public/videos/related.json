@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "x7op3rw_xf7sy00Xiuqt1Gw4BJQ",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 130,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5ysQ2U-UsdvKVznhz7vZ2-sfurU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2PJsSAyOtqA"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-20T15:33:55Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "The tropical taste test",
+        "description": "The tropical taste test with @SelvaReyRum 'An Evening with Silk Sonic' available now: https://SilkSonic.lnk.to/AEWSSID ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2PJsSAyOtqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2PJsSAyOtqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2PJsSAyOtqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-20T15:33:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6oSoA1xkSjpYteEE6w9jtpzpXAg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vgSTzy1gbRM"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-15T19:00:23Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars &amp; Anderson .Paak - Little Richard Tribute Performance [LIVE from the 63rd GRAMMYs ® 2021]",
+        "description": "Bruno Mars and Anderson .Paak pay tribute to the legendary Little Richard performing \"Long Tall Sally (The Thing)\" and \"Good ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vgSTzy1gbRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vgSTzy1gbRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vgSTzy1gbRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-15T19:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_uS8Qgl5HVavUiPXIcMdhlNS5X0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dElRVQFqj-k"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-02T17:37:45Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Marry You (Official Lyric Video)",
+        "description": "The official lyric video for Bruno Mars' \"Marry You\" from the album 'Doo-Wops & Hooligans'. Subscribe for the latest official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dElRVQFqj-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dElRVQFqj-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dElRVQFqj-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-02T17:37:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "baK06Y8odGT2apJqO9bQsIZ_hYw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9YZpng2PL34"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-18T17:14:53Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - If I Knew (Official Audio)",
+        "description": "The official audio for Bruno Mars' \"If I Knew\" from the album 'Unorthodox Jukebox'. Subscribe for the latest official music videos, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9YZpng2PL34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9YZpng2PL34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9YZpng2PL34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-18T17:14:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PG9nwHc9RdM1QgUSWssXx4pJEbE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-C3DpsLjoHQ"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-18T17:16:54Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Natalie (Official Audio)",
+        "description": "The official audio for Bruno Mars' \"Natalie\" from the album 'Unorthodox Jukebox'. Subscribe for the latest official music videos, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-C3DpsLjoHQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-C3DpsLjoHQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-C3DpsLjoHQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-18T17:16:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-5N3YmxoIf-UvSbUsQJldzKjVMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6k8cpUkKK4c"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-02T17:37:52Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Count on Me (Official Lyric Video)",
+        "description": "The official lyric video for Bruno Mars' \"Count On Me\" from the album 'Doo-Wops & Hooligans'. Subscribe for the latest official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6k8cpUkKK4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6k8cpUkKK4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6k8cpUkKK4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-02T17:37:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "euUybTHbD2A-j4ddmq163uGkM5w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "craAcv415FM"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-15T01:18:57Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Just The Way You Are (One Voice: Somos Live!) (Official Live Performance)",
+        "description": "The official live performance of Bruno Mars' \"Just The Way You Are\" from the album 'Doo-Wops & Hooligans' at One Voice: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/craAcv415FM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/craAcv415FM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/craAcv415FM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-15T01:18:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OXdbuqKbtn3-CFHExrEo9D8sFq4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_d4yW6Lz_1o"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-15T03:09:39Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [LIVE from the 63rd GRAMMYs ® 2021]",
+        "description": "Bruno Mars, Anderson .Paak, Silk Sonic - \"Leave the Door Open\" (LIVE from the 63rd GRAMMYs ® 2021) 'An Evening with Silk ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_d4yW6Lz_1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_d4yW6Lz_1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_d4yW6Lz_1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-15T03:09:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QXJXG0ScJ-2edmFaKjmwbBnkroU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cSMB63GMfWM"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-06T09:00:35Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - 24K Magic (from the Victoria’s Secret 2016 Fashion Show) (Official Live Performance)",
+        "description": "The official live performance of Bruno Mars' \"24K Magic\" from the album '24K Magic' at the Victoria's Secret 2016 Fashion Show.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cSMB63GMfWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cSMB63GMfWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cSMB63GMfWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-06T09:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mo45hdx6YutgCzGpjBcOWM5sysk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HIgvP7B3Hg8"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-02T17:37:41Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Runaway Baby (Official Lyric Video)",
+        "description": "The official lyric video for Bruno Mars' \"Runaway Baby\" from the album 'Doo-Wops & Hooligans'. Subscribe for the latest official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HIgvP7B3Hg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HIgvP7B3Hg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HIgvP7B3Hg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-02T17:37:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "plBpdqIiWs9khYhtSMoySVMl4UA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8yATbsjxbLo"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-29T03:42:11Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars &amp; Anderson .Paak as Silk Sonic - Smokin Out The Window (LIVE BET Soul Train Awards 2021)",
+        "description": "Bruno Mars, Anderson .Paak, Silk Sonic - Smokin Out The Window - Live from the BET Soul Train Awards 2021 'An Evening with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8yATbsjxbLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8yATbsjxbLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8yATbsjxbLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-29T03:42:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qwsxX_3ijBTlYWagiKfJREiCLkQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ekzHIouo8Q4"
+      },
+      "snippet": {
+        "publishedAt": "2013-02-05T20:01:34Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - When I Was Your Man (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"When I Was Your Man\" from the album 'Unorthodox Jukebox'. Directed by Cameron ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ekzHIouo8Q4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ekzHIouo8Q4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ekzHIouo8Q4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-02-05T20:01:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NfJwxJVX_5ZKylSA1flvTpITDUk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5kEfq8jPsu4"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-06T09:00:35Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Chunky (from the Victoria’s Secret 2016 Fashion Show) (Official Live Performance)",
+        "description": "The official live performance of Bruno Mars' \"Chunky\" from the album '24K Magic' at the Victoria's Secret 2016 Fashion Show.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5kEfq8jPsu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5kEfq8jPsu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5kEfq8jPsu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-06T09:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V_qgXXmy4fQYaXJUTmg-vZT426M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d89v7099mZ0"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-02T17:37:34Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Our First Time (Official Lyric Video)",
+        "description": "The official lyric video for Bruno Mars' \"Our First Time\" from the album 'Doo-Wops & Hooligans'. Subscribe for the latest official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d89v7099mZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d89v7099mZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d89v7099mZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-02T17:37:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vMPSX5OrZugKraIBTALdNIiO3uQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SR6iYWJxHqs"
+      },
+      "snippet": {
+        "publishedAt": "2010-11-22T16:55:48Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Grenade (Official Music Video)",
+        "description": "The official music video for \"Grenade\" by Bruno Mars from the album 'Doo-Wops and Hooligans'. Directed by Nabil \"Today, I get to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SR6iYWJxHqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SR6iYWJxHqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SR6iYWJxHqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-11-22T16:55:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PGe4pze5_QuS0IVIlWpYEnW5Gcs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nPvuNsRccVw"
+      },
+      "snippet": {
+        "publishedAt": "2013-06-14T14:10:13Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Treasure (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"Treasure\" from the album 'Unorthodox Jukebox'. Subscribe for the latest official music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nPvuNsRccVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nPvuNsRccVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nPvuNsRccVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-06-14T14:10:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R2ta2JF9-CF784efv-qrdum7w6Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5JDewVoityQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-02T04:00:00Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars, Anderson .Paak, Silk Sonic - Leave The Door Open (Live) [Official Audio]",
+        "description": "'An Evening with Silk Sonic' out everywhere November 12th. Pre-Order/Pre-Save: https://SilkSonic.lnk.to/AEWSSID 'An Evening ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5JDewVoityQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5JDewVoityQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5JDewVoityQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-02T04:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n0VjlTWmfAux_jfiV__VhDGZ--Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1DtiIODxkyI"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-02T15:44:24Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Go kart racing in Bahrain got me so inspired I wrote, starred and directed a movie. 🏁 🏎️",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1DtiIODxkyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1DtiIODxkyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1DtiIODxkyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-02T15:44:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "phpChZrpJqGkWqTOf2_6nC3EwA0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m8Ed8in9Qng"
+      },
+      "snippet": {
+        "publishedAt": "2010-07-14T21:03:14Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - The Other Side (feat. Cee Lo Green &amp; B.o.B) (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"The Other Side\" featuring Cee Lo Green and B.o.B from the album 'Doo-Wops ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m8Ed8in9Qng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m8Ed8in9Qng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m8Ed8in9Qng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-07-14T21:03:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D2UHB_nqiMtlhJZ-86hGJomgoQI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "adLGHcj_fmA"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-05T05:00:00Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]",
+        "description": "The official music video for Bruno Mars, Anderson .Paak, Silk Sonic's new single \"Leave the Door Open\" 'An Evening with Silk ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-05T05:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LFWWvh_QnljUFr8ZW7GXTQX2t8E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PMivT7MJ41M"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-02T02:00:11Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - That’s What I Like [Official Music Video]",
+        "description": "The official music video for Bruno Mars' \"That's What I Like\" from the album '24K Magic'. Stream/Download: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PMivT7MJ41M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PMivT7MJ41M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PMivT7MJ41M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-02T02:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PL2RAk3X34b2C14sJagmWIAX9fU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GG7fLOmlhYg"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-05T04:00:11Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars, Anderson .Paak, Silk Sonic - Smokin Out The Window [Official Music Video]",
+        "description": "Bruno Mars, Anderson .Paak, Silk Sonic - Smokin Out The Window [Official Music Video] The official music video for Silk Sonic's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GG7fLOmlhYg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GG7fLOmlhYg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GG7fLOmlhYg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-05T04:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HNY_2ArUiTUYKM4prlwplm-luww",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-cy_tDQPXHk"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-12T05:00:00Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars, Anderson .Paak, Silk Sonic - After Last Night w/ Thundercat &amp; Bootsy [Official Audio]",
+        "description": "'An Evening with Silk Sonic' available now: https://SilkSonic.lnk.to/AEWSSID Get Bruno Mars merchandise!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-cy_tDQPXHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-cy_tDQPXHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-cy_tDQPXHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-12T05:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aWUoFK-NpxliPISP1LKlPstr3dc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8Ebqe2Dbzls"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-24T23:00:11Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "ROSÉ &amp; Bruno Mars - APT. (Official Lyric Video)",
+        "description": "The official lyric video for ROSÉ & Bruno Mars' APT. Listen to APT.: https://rosesarerosie.lnk.to/APTID Order the APT. limited CD ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Ebqe2Dbzls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Ebqe2Dbzls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Ebqe2Dbzls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-24T23:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dQjSZDZ7qFx1a_kgb23BTU6_YXA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fLexgOxsZu0"
+      },
+      "snippet": {
+        "publishedAt": "2011-04-15T22:08:07Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - The Lazy Song (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"The Lazy Song\" from the album 'Doo-Wops and Hooligans''. Stream: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-04-15T22:08:07Z"
+      }
+    }
+  ]
+}
