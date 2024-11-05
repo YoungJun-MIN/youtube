@@ -1,10 +1,12 @@
+import { GiConsoleController } from "react-icons/gi";
+
 export default class Youtube {
   constructor(apiClient) {
     this.apiClient = apiClient;
   }
 
-  async search(keyword) {
-    return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
+  async search({keyword, pageParam}) {
+    return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular({keyword, pageParam});
   }
 
   async channelImageURL(id) {
@@ -39,7 +41,7 @@ export default class Youtube {
     .then((items) => items.map((item) => ({...item, id: item.id.videoId })))
   }
 
-  async #mostPopular() {
+  async #mostPopular({keyword, pageParam}) {
     return this.apiClient
     .videos({
       params: {
@@ -47,8 +49,9 @@ export default class Youtube {
         maxResults: 25,
         chart: `mostPopular`,
         regionCode: `US`,
+        pageToken: pageParam
       }
     })
-    .then((res) => res.data.items)
+    .then((res) => ({items: res.data.items, nextPageToken: res.data.nextPageToken}))
   }
 }

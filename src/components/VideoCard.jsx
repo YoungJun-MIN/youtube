@@ -1,12 +1,12 @@
 import { useNavigate } from 'react-router-dom';
 import {formatAgo} from '../util/date'
 import PropTypes from 'prop-types';
-const VideoCard = ({ video, type })  => {
+const VideoCard = ({ video, type, innerRef })  => {
   const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const navigate = useNavigate();
   const isList = type === 'list';
   return (
-    <li 
+    <li ref={innerRef}
       className={(isList) ? 'flex gap-1 m-2 p-1.5' : 'p-1.5'}
       onClick={() => {
         navigate(`/videos/watch/${video.id}`, {state: { video } });
