@@ -29,8 +29,8 @@ export default function Videos() {
   }, [inView]);
   return (
     <>
-      {isLoading && <p>Loading...</p>}
-      {error && <p>Something is wrong...</p>}
+      {isLoading && <p className="flex justify-self-center self-center text-8xl">Loading... 😂😂😂😂😂😂😂😂😂</p>}
+      {error && <p className="flex justify-self-center self-center text-8xl">Something is wrong... 😅😅😅😅</p>}
       {videos && (
         <ul ref={ref} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
           {videos.pages.map((page, pagesIndex) =>
@@ -43,11 +43,6 @@ export default function Videos() {
           )}
         </ul>
       )}
-      <button
-        disabled={!hasNextPage || isFetchingNextPage} 
-        onClick={() => fetchNextPage()}>
-          {isFetchingNextPage ? 'Loading more...' : hasNextPage ? 'LoadMore' : 'Nothing more to load'}
-      </button>
     </>
   )
 }
