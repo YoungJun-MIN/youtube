@@ -5,11 +5,13 @@ const VideoCard = ({ video, type, innerRef })  => {
   const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const navigate = useNavigate();
   const isList = type === 'list';
+  const id = video.id.kind ? video.id.videoId ? video.id.videoId : video.id.channelId: video.id 
+
   return (
     <li ref={innerRef}
       className={(isList) ? 'flex gap-1 m-2 p-1.5' : 'p-1.5'}
       onClick={() => {
-        navigate(`/videos/watch/${video.id}`, {state: { video } });
+        navigate(`/videos/watch/${id}`, { state: { video, id } });
       }}
     >
       {/* <picture>

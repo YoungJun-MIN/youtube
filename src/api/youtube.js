@@ -38,7 +38,7 @@ export default class Youtube {
       q: keyword,
       pageToken: pageParam
     }})
-    .then((res) => ({items: res.data.items, nextPageToken: res.data.nextPageToken}))
+    .then((res) => ({items: res.data.items.filter((item) => item.id.kind.includes('video')), nextPageToken: res.data.nextPageToken}))
     //.then((items) => items.map((item) => ({...item, id: item.id.videoId })))
   }
 
