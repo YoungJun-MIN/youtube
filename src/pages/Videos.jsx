@@ -22,7 +22,6 @@ export default function Videos() {
       getPreviousPageParam: (firstPage, allPages) => firstPage.prevCursor,
     }
   )
-  console.log(`videos: `, videos);
   useEffect(() => {
     if(inView && hasNextPage) {
       fetchNextPage();
