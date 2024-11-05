@@ -6,7 +6,7 @@ export default class Youtube {
   }
 
   async search({keyword, pageParam}) {
-    return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular({keyword, pageParam});
+    return keyword ? this.#searchByKeyword({keyword, pageParam}) : this.#mostPopular({keyword, pageParam});
   }
 
   async channelImageURL(id) {
@@ -28,17 +28,18 @@ export default class Youtube {
       res.data.items.map((item) => ({ ...item, id: item.id.videoId }))
     );
   }
-  async #searchByKeyword(keyword) {
+  async #searchByKeyword({keyword, pageParam}) {
     return this.apiClient
     .search({
       params: {
       part: 'snippet',
       maxResults: 25,
       type: 'video',
-      q: keyword
+      q: keyword,
+      pageToken: pageParam
     }})
-    .then((res) => res.data.items)
-    .then((items) => items.map((item) => ({...item, id: item.id.videoId })))
+    .then((res) => ({items: res.data.items, nextPageToken: res.data.nextPageToken}))
+    //.then((items) => items.map((item) => ({...item, id: item.id.videoId })))
   }
 
   async #mostPopular({keyword, pageParam}) {

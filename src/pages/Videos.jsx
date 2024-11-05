@@ -22,6 +22,7 @@ export default function Videos() {
       getPreviousPageParam: (firstPage, allPages) => firstPage.prevCursor,
     }
   )
+  console.log(`videos: `, videos);
   useEffect(() => {
     if(inView && hasNextPage) {
       fetchNextPage();
@@ -36,9 +37,9 @@ export default function Videos() {
           {videos.pages.map((page, pagesIndex) =>
             (page.items.map((item, itemsIndex) => {
               if(pagesIndex === (videos.pages.length - 1) && itemsIndex === (page.items.length - 1)) {
-                return (<VideoCard key={item.id} video={item} type='' innerRef={ref} />)
+                return (<VideoCard key={item.etag} video={item} type='' innerRef={ref} />)
               } 
-              return (<VideoCard key={item.id} video={item} type='' />)
+              return (<VideoCard key={item.etag} video={item} type='' />)
             })) 
           )}
         </ul>
