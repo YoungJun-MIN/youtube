@@ -24,22 +24,28 @@ export default class Youtube {
         channelId: id   
       }
     })
-    .then((res) => 
-      res.data.items.map((item) => ({ ...item, id: item.id.videoId }))
-    );
+    .then((res) => {
+      return res.data.items.map((item) => ({ ...item, id: item.id.videoId }))
+    });
   }
   async #searchByKeyword({keyword, pageParam}) {
     return this.apiClient
     .search({
       params: {
-      part: 'snippet',
-      maxResults: 25,
-      type: 'video',
-      q: keyword,
-      pageToken: pageParam
+        part: 'snippet',
+        maxResults: 25,
+        type: 'video',
+        q: keyword,
+        pageToken: pageParam
     }})
-    .then((res) => ({items: res.data.items.filter((item) => item.id.kind.includes('video')), nextPageToken: res.data.nextPageToken}))
-    //.then((items) => items.map((item) => ({...item, id: item.id.videoId })))
+    .then((res) => {
+      return ({
+        items: res.data.items
+                .filter((item) => item.id.kind.includes('video'))
+                .map((item) => ({...item, id: (item.id.kind ? item.id.videoId ? item.id.videoId : item.id.channelId: item.id )})), 
+        nextPageToken: res.data.nextPageToken
+      })
+    })
   }
 
   async #mostPopular({keyword, pageParam}) {

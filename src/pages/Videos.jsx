@@ -30,7 +30,7 @@ export default function Videos() {
   return (
     <>
       {isLoading && <p className="flex justify-self-center self-center text-8xl">Loading... 😂😂😂😂😂😂😂😂😂</p>}
-      {error && <p className="flex justify-self-center self-center text-8xl">Something is wrong... 😅😅😅😅</p>}
+      {error && <p className="flex justify-self-center self-center text-8xl">Youtube Query... 😅😅😅😅</p>}
       {videos && (
         <ul ref={ref} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
           {videos.pages.map((page, pagesIndex) =>

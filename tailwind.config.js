@@ -8,7 +8,7 @@ export default {
     extend: {
       colors: {
         brand: `#FF0000`,
-        gradition: `#ecb4af`
+        description: `rgba(255, 255, 255, 0.1)`
       }
     },
   },
