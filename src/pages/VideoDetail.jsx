@@ -9,8 +9,6 @@ export default function VideoDetail() {
   const handleChangeisOpen = () => {
     setIsOpen(prev => !prev);
   }
-  console.log(`video: `, video);
-  console.log(`description: `, video.snippet);
   return (
     <section className="flex flex-col lg:flex-row justify-center">
       <article className="basis-4/6">
