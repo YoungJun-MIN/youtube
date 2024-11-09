@@ -30,40 +30,39 @@ const router = createBrowserRouter([
 ])
 
 const rootElement = document.getElementById('root');
-console.log(`root: `, rootElement);
-if(rootElement.hasChildNodes()) {
-  hydrateRoot(rootElement).render(
-    /* code_splitting_before */
-    <HelmetProvider>
-      <RouterProvider router={router} />
-    </HelmetProvider>
-  )
-} else {
-  createRoot(rootElement).render(
-      /* code_splitting_after */
-      // <Suspense>
-      //   <RouterProvider router={router} />
-      // </Suspense> 
+// if(rootElement.hasChildNodes()) {
+//   hydrateRoot(rootElement).render(
+//     /* code_splitting_before */
+//     <HelmetProvider>
+//       <RouterProvider router={router} />
+//     </HelmetProvider>
+//   )
+// } else {
+//   createRoot(rootElement).render(
+//       /* code_splitting_after */
+//       // <Suspense>
+//       //   <RouterProvider router={router} />
+//       // </Suspense> 
     
     
-      /* code_splitting_before */
-      <HelmetProvider>
-        <RouterProvider router={router} />
-      </HelmetProvider>
+//       /* code_splitting_before */
+//       <HelmetProvider>
+//         <RouterProvider router={router} />
+//       </HelmetProvider>
     
-    )
-}
+//     )
+// }
 
-// createRoot(rootElement).render(
-//   /* code_splitting_after */
-//   // <Suspense>
-//   //   <RouterProvider router={router} />
-//   // </Suspense> 
+createRoot(document.getElementById('root')).render(
+  /* code_splitting_after */
+  // <Suspense>
+  //   <RouterProvider router={router} />
+  // </Suspense> 
 
 
-//   /* code_splitting_before */
-//   <HelmetProvider>
-//     <RouterProvider router={router} />
-//   </HelmetProvider>
+  /* code_splitting_before */
+  <HelmetProvider>
+    <RouterProvider router={router} />
+  </HelmetProvider>
 
-// )
+)
