@@ -1,5 +1,5 @@
 import { lazy, StrictMode, Suspense } from 'react'
-import { createRoot } from 'react-dom/client'
+import { createRoot, hydrateRoot } from 'react-dom/client'
 import App from './App.jsx'
 import NotFound from './pages/NotFound.jsx'
 import './index.css'
@@ -28,16 +28,42 @@ const router = createBrowserRouter([
     ]
   }
 ])
-createRoot(document.getElementById('root')).render(
-  /* code_splitting_after */
-  // <Suspense>
-  //   <RouterProvider router={router} />
-  // </Suspense> 
+
+const rootElement = document.getElementById('root');
+console.log(`root: `, rootElement);
+if(rootElement.hasChildNodes()) {
+  hydrateRoot(rootElement).render(
+    /* code_splitting_before */
+    <HelmetProvider>
+      <RouterProvider router={router} />
+    </HelmetProvider>
+  )
+} else {
+  createRoot(rootElement).render(
+      /* code_splitting_after */
+      // <Suspense>
+      //   <RouterProvider router={router} />
+      // </Suspense> 
+    
+    
+      /* code_splitting_before */
+      <HelmetProvider>
+        <RouterProvider router={router} />
+      </HelmetProvider>
+    
+    )
+}
+
+// createRoot(rootElement).render(
+//   /* code_splitting_after */
+//   // <Suspense>
+//   //   <RouterProvider router={router} />
+//   // </Suspense> 
 
 
-  /* code_splitting_before */
-  <HelmetProvider>
-    <RouterProvider router={router} />
-  </HelmetProvider>
+//   /* code_splitting_before */
+//   <HelmetProvider>
+//     <RouterProvider router={router} />
+//   </HelmetProvider>
 
-)
+// )

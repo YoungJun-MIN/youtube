@@ -10,9 +10,13 @@ export default defineConfig({
       routes: ["/", "/videos", "/videos/watch/"],
       renderer: "@prerenderer/renderer-puppeteer",
       server: {
-        port: 3000,
-        host: "localhost",
+        host: 'localhost',
+        listenHost: 'localhost',
       },
+      // server: {
+      //   port: 3000,
+      //   host: "localhost",
+      // },
       rendererOptions: {
         maxConcurrentRoutes: 1,
         renderAfterTime: 500,
