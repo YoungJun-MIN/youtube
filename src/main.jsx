@@ -6,6 +6,7 @@ import Videos from './pages/Videos.jsx'
 import VideoDetail from './pages/VideoDetail.jsx'
 import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { HelmetProvider } from 'react-helmet-async'
 
 const router = createBrowserRouter([
   {
@@ -47,6 +48,7 @@ const rootElement = document.getElementById('root');
 // }
 
 createRoot(document.getElementById('root')).render(
+  <HelmetProvider>
     <RouterProvider router={router} />
-
+  </HelmetProvider>
 )
