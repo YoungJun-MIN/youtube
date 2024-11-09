@@ -35,11 +35,6 @@
     "eslint-plugin-react-refresh": "^0.4.9",
     "globals": "^15.9.0",
     "postcss": "^8.4.47",
-<<<<<<< HEAD
-    "puppeteer": "^23.7.1",
-    "react-snap": "^1.23.0",
-=======
->>>>>>> parent of ea72f45 (optimize SEO)
     "tailwindcss": "^3.4.14",
     "vite": "^5.4.1"
   },
