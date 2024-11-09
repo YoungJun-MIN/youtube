@@ -4,7 +4,6 @@ import VideoCard from '../components/VideoCard'
 import { useYoutubeApi } from '../context/YoutubeApiContext'
 import { useEffect, useRef, useState } from "react";
 import { useInView } from "react-intersection-observer";
-import DetailHelmet from "../components/DetailHelmet";
 
 export default function Videos() {
   const { ref, inView } = useInView()
@@ -30,7 +29,6 @@ export default function Videos() {
   }, [inView]);
   return (
     <>
-      <DetailHelmet title={`YouTube`} description={`YouTube Search`}/>
       {isLoading && <p className="flex justify-self-center self-center text-8xl">Loading... 😂😂😂😂😂😂😂😂😂</p>}
       {error && <p className="flex justify-self-center self-center text-8xl">Youtube Query... 😅😅😅😅</p>}
       {videos && (
