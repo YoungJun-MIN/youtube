@@ -23,32 +23,10 @@ const router = createBrowserRouter([
   }
 ])
 
-const rootElement = document.getElementById('root');
-// if(rootElement.hasChildNodes()) {
-//   hydrateRoot(rootElement).render(
-//     /* code_splitting_before */
-//     <HelmetProvider>
-//       <RouterProvider router={router} />
-//     </HelmetProvider>
-//   )
-// } else {
-//   createRoot(rootElement).render(
-//       /* code_splitting_after */
-//       // <Suspense>
-//       //   <RouterProvider router={router} />
-//       // </Suspense> 
-    
-    
-//       /* code_splitting_before */
-//       <HelmetProvider>
-//         <RouterProvider router={router} />
-//       </HelmetProvider>
-    
-//     )
-// }
-
 createRoot(document.getElementById('root')).render(
-  <HelmetProvider>
-    <RouterProvider router={router} />
-  </HelmetProvider>
+  <StrictMode>
+    <HelmetProvider>
+      <RouterProvider router={router} />
+    </HelmetProvider>
+  </StrictMode>
 )
