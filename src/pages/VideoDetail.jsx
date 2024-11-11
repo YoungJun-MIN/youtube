@@ -14,7 +14,7 @@ export default function VideoDetail() {
   }
   useEffect(() => {
     sectionTag.current.scrollIntoView({ behavior: 'smooth' });
-  }, [])
+  }, [title])
   return (
     <>
       <DetailHelmet title={title} description={description}/>
