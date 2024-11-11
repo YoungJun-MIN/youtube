@@ -1,19 +1,24 @@
 import { useLocation } from "react-router-dom";
 import ChannelInfo from "../components/ChannelInfo";
 import RelatedVideos from "../components/RelatedVideos";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import DetailHelmet from "../components/DetailHelmet";
+
 export default function VideoDetail() {
   const { state: {video} } = useLocation();
   const { title, channelId, channelTitle, description } = video.snippet;
   const [isOpen, setIsOpen] = useState(false);
+  const sectionTag = useRef(null);
   const handleChangeisOpen = () => {
     setIsOpen(prev => !prev);
   }
+  useEffect(() => {
+    sectionTag.current.scrollIntoView({ behavior: 'smooth' });
+  }, [])
   return (
     <>
       <DetailHelmet title={title} description={description}/>
-      <section className="flex flex-col lg:flex-row justify-center">
+      <section ref={sectionTag} className="flex flex-col lg:flex-row justify-center">
         <article className="basis-4/6">
           <iframe
             id='player'
@@ -36,7 +41,7 @@ export default function VideoDetail() {
           <RelatedVideos id={channelId} />
         </section>
       </section>
-    </>
 
+    </>
   )
 }

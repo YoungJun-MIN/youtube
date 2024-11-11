@@ -1,10 +1,11 @@
-import { useQuery, useInfiniteQuery } from "@tanstack/react-query";
+import { useInfiniteQuery } from "@tanstack/react-query";
 import { useParams } from "react-router-dom"
 import VideoCard from '../components/VideoCard'
 import { useYoutubeApi } from '../context/YoutubeApiContext'
-import { useEffect, useRef, useState } from "react";
+import { useEffect } from "react";
 import { useInView } from "react-intersection-observer";
 import DetailHelmet from "../components/DetailHelmet";
+import Loading from "../components/Loading";
 
 export default function Videos() {
   const { ref, inView } = useInView()
@@ -31,7 +32,7 @@ export default function Videos() {
   return (
     <>
       <DetailHelmet title={`YouTube`} description={`YouTube Search`}/>
-      {isLoading && <p className="flex justify-self-center self-center text-8xl">Loading... 😂😂😂😂😂😂😂😂😂</p>}
+      {isLoading && <Loading />}
       {error && <p className="flex justify-self-center self-center text-8xl">Youtube Query... 😅😅😅😅</p>}
       {videos && (
         <ul ref={ref} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
